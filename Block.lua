@@ -1,9 +1,9 @@
 Block = class()
 
 local crates = {
-    "Documents:Title Large Crate 1",
-    "Documents:Title Large Crate 2",
-    "Documents:Title Large Crate 3"
+    "Project:Title Large Crate 1",
+    "Project:Title Large Crate 2",
+    "Project:Title Large Crate 3"
 }
 
 local tints = {
